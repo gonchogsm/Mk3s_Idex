@@ -4,7 +4,10 @@ This project was born to try and learn about Idex printers. I had a Prusa Mk3s p
 
 This is not a finished project and some work is needed to have a fully functional Idex printer. Please refer to the "To-do" section and use at your own risk.
 
-<img src="https://github.com/gonchogsm/Mk3s_Idex/assets/94571789/66906d6f-040a-42db-8ee7-6231032e9f3d" width="500">
+<img src="https://github.com/gonchogsm/Mk3s_Idex/assets/94571789/66906d6f-040a-42db-8ee7-6231032e9f3d" width="300">
+
+<img src="https://github.com/gonchogsm/Mk3s_Idex/assets/94571789/8b53a671-bb77-4910-b749-2411cb6d4fcf" width="300">
+
 
 ## What do you need
 ### Hardware
