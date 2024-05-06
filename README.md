@@ -13,7 +13,7 @@ This is not a finished project and some work is needed to have a fully functiona
 ### Hardware
 - Prusa Mk3s.
 - Raspberry Pi. To run klipper.
-- Nema17 motor. To move the extra extruder in the X axis.
+- Nema17 motor with pulley. To move the extra extruder in the X axis.
 - Complete Mk3s extruder. Motor, gears, fans, hotend, etc.
 - Board to run the extra extruder and X motor. I used a SKR Pico that I already had but any other board should work as well.
 - 24v power supply. I used a 200W 24v power supply to power the SKR Pico as I didn't want to mess with the original power supply.
