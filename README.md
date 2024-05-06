@@ -31,7 +31,7 @@ This is not a finished project and some work is needed to have a fully functiona
 
 #### Frame
 > [!CAUTION]
-> Using stock frame will leave one or both nozzles on top of the bed when extruders are parked. You must ensure that first layers are ALWAYS done with the extruder that sits at a lower height. Otherwise the other nozzle will scratch your bed surface. I recommend using a wider frame, where both extruders are parked outside the bed, to overcome this issue.
+> Using stock frame will leave one or both nozzles on top of the bed when extruders are parked. You must ensure that first layers are ALWAYS done with the extruder that sits at a lower height. Otherwise the other nozzle will scratch your bed surface. I recommend using a wider frame, where both extruders are parked outside the bed, to overcome this issue. Please refer to the "To-do" section.
 
 
 ### Printed parts
