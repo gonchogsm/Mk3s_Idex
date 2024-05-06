@@ -21,12 +21,29 @@ This is not a finished project and some work is needed to have a fully functiona
 - Linear rail 350mm. If you use a wider frame, remember to buy a longer linear rail.
 - 2x carriage block MGN12H.
 - GT2 belt for second extruder.
+- POM nuts and linear bearings from old X axis.
 > [!WARNING]
 > Remember to check fan voltage! Original Prusa fans run at 5v but your additional board (i.e. SKR Pico) will run at 12 or 24v.
 
 
-#### Screws
-- To be completed
+#### Screws (socket head if not specified)
+##### X axis
+- 2x M3x25 (tensioner)
+- 2x M3 nut (tensioner)
+- 2x M3x14 pin (to hold tensioner pulley)
+- 3x M3x10 (to hold left motor)
+- 3x M3x12 (to hold right motor)
+- 4x M3x10 (Z rod clamps)
+- 4x M3x18 (POM nuts)
+- 8x M3 nuts
+##### Tool backplate
+- 1x M3x8
+- 2x M3x10
+- 1x M3x16
+- 4x M3 nuts
+##### Tool carriage
+- 8x M3x6 countersunk head
+##### Extruder 1
 - Screws and nuts to mount the second extruder. Please refer to Prusa documentation.
 
 #### Frame
