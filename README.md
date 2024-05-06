@@ -21,6 +21,9 @@ This is not a finished project and some work is needed to have a fully functiona
 - Linear rail 350mm. If you use a wider frame, remember to buy a longer linear rail.
 - 2x carriage block MGN12H.
 - GT2 belt for second extruder.
+> [!WARNING]
+> Remember to check fan voltage! Original Prusa fans run at 5v but your additional board (i.e. SKR Pico) will run at 12 or 24v.
+
 
 #### Screws
 - To be completed
